@@ -70,7 +70,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
-  <a href="index.html">All cities</a>
+  <a href="index.html" style="color: #e4e2e2; text-decoration: none; font-weight: bold; font-size: 16px; margin-top: 10px; display: inline-block; text-decoration: underline;">All cities</a>
   `;
 }
 
