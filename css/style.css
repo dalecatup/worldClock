@@ -1,9 +1,11 @@
 body {
   /*background-color: rgba(110, 68, 150, 0.445);*/
-  background-image: url("media/clocks.jpg");
+  background-image: url("img/clocks.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
 }
 
 h1 {
@@ -32,7 +34,6 @@ select {
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
   border-radius: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-image: url("media/clocks.jpg");
 }
 
 .city {
